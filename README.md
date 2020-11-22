@@ -1,1 +1,0 @@
-# vanila-js-dicee-game
